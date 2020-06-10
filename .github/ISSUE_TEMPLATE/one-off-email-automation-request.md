@@ -1,6 +1,6 @@
 ---
 name: One-off email/automation request
-about: Description of this request
+about: Please provide the description of this new request
 title: 'One-off Email Request: "Enter your task title" / Email Automation Request:
   "Enter your task title"'
 labels: ''
@@ -8,25 +8,26 @@ assignees: ''
 
 ---
 
-** What needs to be done? **
+**What needs to be done?**
 Please specify the scope of the project/task and any specific requirements from your end. 
 
-** What's the target audience? **
+**What's the target audience?**
 Please mention the target audience if you know to whom we are planning to send this campaign. 
 
-** What's the end goal expected? **
+**What's the end goal expected?**
 Please specify the expected outcome. 
 
-** Examples: **
-1) Feature announcement email - We're doing an AB test in on the website so we need a min of 2000 users to visit our site through this campaign etc.
+Examples:
+1) Feature announcement email - We're doing an AB test on the website so we need a min of 2000 users to visit our site through this campaign etc.
 2) Survey - We're looking for min 300 response through this campaign
 3) Min pageviews on a specific channel to achieve a goal. 
 4) If it's a regular newsletter then the goal is to bring more audiences to consume the content and create more engagement.  
 
-^ these above info will help us choose the size of the target audience to achieve the goal or to suggest a specific audience to this email request. 
+This above info will help us choose the size of the target audience to achieve the goal or to suggest a specific audience to this email request. 
 
-** What's the timeline you're looking at? **
-
+**What's the timeline you're looking at?**
+For one-off email, automation and journey emails please mention the expected go-live date
+For time-sensitive emails please discuss on slack and mention the agreed go-live date
 
 **Email Requirements**
 
